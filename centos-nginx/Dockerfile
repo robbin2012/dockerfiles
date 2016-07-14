@@ -1,4 +1,5 @@
-FROM internavenue/centos-base:centos7
+#FROM internavenue/centos-base:centos7
+FROM registry.aliyuncs.com/acs-sample/centos:7
 
 MAINTAINER Intern Avenue Dev Team <dev@internavenue.com>
 
